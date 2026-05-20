@@ -9,4 +9,6 @@ Day 1 — Setup complete practice
 - ✅ Hello-Gemini call working — see [Day1_Setup prac.ipynb](Day1_Setup prac.ipynb)
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 
-![Gemini first call](gemini_first_call.png)
+
+
+<img width="1220" height="873" alt="gemini_first_call_prac_19_googleColab" src="https://github.com/user-attachments/assets/7b4ea928-eac2-4579-804e-752a804295de" />
